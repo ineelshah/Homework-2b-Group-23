@@ -6,7 +6,7 @@ setup(
     description='Homework to create a good repository',
     author='Parth Vijaykumar Patel',
     author_email='pvpatel2#ncsu.edu',
-    packages=['Homework-2b-Group-23'],
+    packages=['code'],
         long_description="""\
             Hands on for the standard github repo files.
             .gitignore
