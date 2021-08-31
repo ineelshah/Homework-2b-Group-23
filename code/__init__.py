@@ -15,4 +15,8 @@ def divide(a, b):
 		if float(b) != 0.0:
 			return int(a)/int(b), msg, ""
 		else:
-			return -1, msg, "invalid input"
+			return -1, msg, "Can not divide by zero"
+	else:
+		return -1, msg, "Please provide valid input"
+
+print(divide('a', '5'))
