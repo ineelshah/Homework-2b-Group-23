@@ -36,6 +36,7 @@ setup(
         license='MIT',
         install_requires=[
             'numpy',
+            'pytest',
             'configparser',
         ],
         )
