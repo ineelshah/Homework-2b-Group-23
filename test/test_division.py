@@ -6,7 +6,7 @@ from src import division
 def division_util(a,b):
 	return division.divide(a,b)
 
-def test_capitalize_string():
+def test_division_by_zero():
     if division_util('10','5')[1] == 1:
     	assert division_util('10','5')[0] == 2.0
     else:
