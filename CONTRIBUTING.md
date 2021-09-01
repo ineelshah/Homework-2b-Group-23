@@ -7,26 +7,26 @@
 Have you read the code of conduct and looked at the license details?
 If you want to raise an issue, first, please do check out the existing issues to see if we accept contributions for your type of issue.
 
-
-Table of Contents
+<br></br>
+### Table of Contents
 
 S.No. | Section 
 ----- | ------- 
 1 | [Welcome!](#welcome!)
-2 | [How to Contribute?](#How to Contribute?)
-3 | [More things to consider with a PR] (#Some other things to consider when merging a pull request:)
-4 | [Where to Contribute?](#Where to Contribute?)
-5 | [Setting up a development environment](#Setting up a development environment)
-6 | [Credit](#Credit for the CONTRIBUTING.md file:)
+2 | [How to Contribute?](#How-to-Contribute?)
+3 | [More things to consider with a PR](#Some-other-things-to-consider-when-merging-a-pull-request)
+4 | [Where to Contribute?](#Where-to-Contribute?)
+5 | [Setting up a development environment](#Setting-up-a-development-environment)
+6 | [Credit](#Credit-for-the-CONTRIBUTING.md-file)
 
-
-#### Welcome! 
+<br></br>
+### Welcome! 
 We’re glad to see you are interested in contributing. We hope to build a community around developing this project and helping as many people as possible. 
 
 The following are guidelines that we feel will nudge developers toward correct choices while making contributions. Feel free to point out anything that could be improved/changed in a pull request.
 
 
-
+<br></br>
 ### How to Contribute?
 
 To contribute, please issue a pull request using the following procedure:
@@ -40,13 +40,15 @@ To contribute, please issue a pull request using the following procedure:
 
 5. We request that you take the approval of all of the developers before merging the pull request to minimize any unexpected bugs.
 
-### Some other things to consider when merging a pull request:
+<br></br>
+### Some other things to consider when merging a pull request
 * Be clear with the exact problem that you’re trying to solve/feature you’re trying to add.
 
 * Ensure that it is of good quality. The language should be clear and concise without any spelling or grammar mistakes.
 
 * Make sure that any contribution of any sort follows the code of conduct. Our repository has a [code of conduct](https://github.com/ineelshah/Homework-2b-Group-23/blob/main/CODE_OF_CONDUCT.md) and any pull request that does not respect these will be appropriately removed.
 
+<br></br>
 ### Where to Contribute?
 You can contribute in the following ways to our code:
 
@@ -65,6 +67,7 @@ You can contribute in the following ways to our code:
 * Open an issue
   * If you see any visible problems/areas that you consider being an issue, open an issue and one of the developers will connect with you to discuss it in further detail.
 
+<br></br>
 ### Setting up a development environment
 1. Install Anaconda for your operating system. You can use one of the following links:
 * Windows:
@@ -77,12 +80,14 @@ You can contribute in the following ways to our code:
 2. Update Spyder to the latest version 
 * Type $ conda update sypder in the Anaconda command prompt
 
-Import the file that you want to change
-	You’re all set!
+3. Import the file that you want to change
 
+**You’re all set!**
+<br></br>
+![Success](https://tenor.com/view/success-kid-hells-yes-i-did-it-fuck-yeah-success-gif-5207407.gif)
 
-
-### Credit for the CONTRIBUTING.md file:
+<br></br>
+### Credit for the CONTRIBUTING.md file
 * [The atom repository](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#pull-requests)
 * [PurpleBooth](https://gist.github.com/PurpleBooth/b24679402957c63ec426#scope)
 * [GitHub docs](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
