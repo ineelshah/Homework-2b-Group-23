@@ -12,12 +12,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        echo "machine is ready"
       - name: Install Python 3.9.6
         uses: actions/setup-python@v1
         with:
           python-version: 3.9.6
+        echo "installing dependencies"
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
+        echo "dependencies installed"
       - name: Run tests
+        echo "running tests"
         run: pytest 
