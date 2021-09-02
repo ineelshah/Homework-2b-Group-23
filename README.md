@@ -12,8 +12,8 @@ Repository for homework 2b made by group 23
 ## Description
 
 - There are two programs in the src folder
-Greetings
-Division
+   - Greetings
+   - Division
 - Greetings take the user parameters and creates a personalized message.
 - Since, we cannot publish user data on a public platform without authorization, user data is stored in user parameters which will be provided in gitignore.
 - The Division function computes simple division operation.
