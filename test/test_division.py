@@ -1,7 +1,5 @@
 from src import division
 
-# Test division by zero:
-
 
 def division_util(a,b):
 	return division.divide(a,b)
@@ -15,3 +13,5 @@ def test_division_by_zero():
 def test_general_division():
 	assert division_util('100000000000001', '2')[0] == 50000000000000.5
 
+def test_general_division_small():
+	assert division_util('25', '2')[0] == 12.5
