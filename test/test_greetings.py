@@ -1,4 +1,4 @@
-from src import greetings
+from code import greetings
 
 def greetings_util():
 	return greetings.greet()
