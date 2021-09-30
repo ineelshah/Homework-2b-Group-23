@@ -1,4 +1,7 @@
-from code import division
+import sys
+sys.path.append("./code")
+from hw_code import division
+import pytest
 
 
 def division_util(a,b):

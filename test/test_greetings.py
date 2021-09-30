@@ -1,4 +1,4 @@
-from code import greetings
+from hw_code import greetings
 
 def greetings_util():
 	return greetings.greet()
